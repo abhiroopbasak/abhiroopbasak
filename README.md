@@ -1,5 +1,5 @@
 ### Hi there 👋
-###Abhiroop Basak
+Abhiroop Basak
 
 Student | Changemaker | Entreprenuer | Automation Enthusiast
 <!--
