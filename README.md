@@ -1,7 +1,6 @@
 ### Hi there 👋
 Abhiroop Basak✌
 
-AI enthusiast
 
 Student | Entreprenuer | Python | Ansible |  DevOps | Developer
 <!--
