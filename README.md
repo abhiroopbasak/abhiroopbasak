@@ -1,9 +1,9 @@
-#### Abhiroop Basak
+### Abhiroop Basak
 
 
-## Student | Developer | Entreprenuer 
+# Student | Developer | Entreprenuer 
 
-## Python | Django | Ansible |  DevOps | 
+# Python | Django | Ansible |  DevOps | 
 <!--
 **abhiroopbasak/abhiroopbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
