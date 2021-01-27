@@ -1,11 +1,11 @@
-![alt text](https://githubprofile.s3.ap-south-1.amazonaws.com/1611408277929.jpg)
-
 ### Abhiroop Basak
 
 
 Student | Developer | Entreprenuer 
 
 Python | Django | Ansible |  DevOps | 
+
+
 <!--
 **abhiroopbasak/abhiroopbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
