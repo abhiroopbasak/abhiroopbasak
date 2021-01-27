@@ -1,4 +1,4 @@
-![alt text](https://githubprofile.s3.ap-south-1.amazonaws.com/1611408277929.jpg/200/200)
+![alt text](https://githubprofile.s3.ap-south-1.amazonaws.com/1611408277929.jpg)
 
 ### Abhiroop Basak
 
