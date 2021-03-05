@@ -17,9 +17,7 @@ Some of the interesting projects I have been working on recently:
 
 Find me on 
 
-[Linkedin](https://www.linkedin.com/in/abhiroopbasak)
-
-[Repl.it](https://repl.it/@abhiroopbasak/)
+[Linkedin](https://www.linkedin.com/in/abhiroopbasak)     [Repl.it](https://repl.it/@abhiroopbasak/)     [Medium](https://abhiroopbasak.medium.com/)
 
 
 
