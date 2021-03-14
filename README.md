@@ -19,7 +19,7 @@ Find me on
 
 [Linkedin](https://www.linkedin.com/in/abhiroopbasak)   
 
-[Repl.it](https://repl.it/@abhiroopbasak/)     
+[Replit.com](https://repl.it/@abhiroopbasak/)     
 
 [Medium](https://abhiroopbasak.medium.com/)
 
