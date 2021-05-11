@@ -26,5 +26,3 @@ Find me on
 
 
 
-
-PS: When your code runs in the first go, nothing is better than that :)
