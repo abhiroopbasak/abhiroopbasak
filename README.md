@@ -26,7 +26,9 @@ Find me on
 
 ### What have I been to?
 
-[![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiroopbasak&hide=issues)](https://github.com/abhiroopbasak/github-readme-stats)
+[![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiroopbasak&hide=issues&count_private=true)](https://github.com/abhiroopbasak/github-readme-stats)
+
+
 
 
 
