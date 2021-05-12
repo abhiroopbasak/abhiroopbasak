@@ -25,5 +25,5 @@ Find me on
 
 
 
-
+[![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiroopbasak)](https://github.com/abhiroopbasak/github-readme-stats)
 
