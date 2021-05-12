@@ -29,6 +29,8 @@ Find me on
 [![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiroopbasak&hide=issues&count_private=true&theme=dark)](https://github.com/abhiroopbasak/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiroopbasak&layout=compact&langs_count=6&theme=dark)](https://github.com/abhiroopbasak/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhiroopbasak&repo=github-readme-stats)](https://github.com/abhiroopbasak/github-readme-stats)
+
 
 
 
