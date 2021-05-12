@@ -27,7 +27,7 @@ Find me on
 ### What have I been to?
 
 [![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiroopbasak&hide=issues&count_private=true&theme=dark)](https://github.com/abhiroopbasak/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiroopbasak)](https://github.com/abhiroopbasak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiroopbasak&layout=compact&langs_count=8&theme=dark)](https://github.com/abhiroopbasak/github-readme-stats)
 
 
 
