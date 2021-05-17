@@ -36,7 +36,7 @@ Working on new projects and exploring new tools is a part of the adventure. Open
 
 ### Tech stack
 
-<img width="100px", height="100px" src="https://logo.letskhabar.com/img/?tool=linux" alt="linux"><img width="100px", height="100px" src="https://logo.letskhabar.com/img/?tool=windows-10" alt="windows-10">
+<img src="https://logo.letskhabar.com/img/?tool=linux" alt="linux"><img src="https://logo.letskhabar.com/img/?tool=windows-10" alt="windows-10">
 
 
 <img src="https://logo.letskhabar.com/img/?tool=amazon-web-services" alt="amazon-web-services"><img src="https://logo.letskhabar.com/img/?tool=amazon-s3" alt="amazon-s3"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=google_cloud" alt="google_cloud"><img src="https://logo.letskhabar.com/img/?tool=firebase" alt="firebase"><img src="https://logo.letskhabar.com/img/?tool=mongodb" alt="mongodb"><img src="https://logo.letskhabar.com/img/?tool=cloudflare" alt="cloudflare">
