@@ -5,16 +5,23 @@
 Working on new projects and exploring new tools is a part of the adventure. Open for collaboration on interesting projects. The use of common everyday tools and softwares to build something amazing is alwys a great experience. 
 
 
+
+
+
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/developer_med-1.gif"/>
 
 
 
 
-Some of the interesting projects I have been working on recently:
+
+
+### Some of the interesting projects I have been working on recently:
 
 * STAR: Attendance Prediction using ML and Weather API [Know More](https://github.com/abhiroopbasak/attendance_prediction)
 
 * Writing Story using NLP [Know More](https://github.com/abhiroopbasak/WordPrediction_NLP)
+
+* anakhronos.in: Server and backend development [Know More](http://anakhronos.in/) 
 
 * MapCOVID: Vaccine Tracking and Facial recognition Security [Know More](https://github.com/abhiroopbasak/MapCOVID)
 
@@ -26,7 +33,18 @@ Some of the interesting projects I have been working on recently:
 
 
 
-Find me on 
+
+### Tech stack
+
+<img width="100px", height="100px" src="https://logo.letskhabar.com/img/?tool=linux" alt="linux"><img width="100px", height="100px" src="https://logo.letskhabar.com/img/?tool=windows-10" alt="windows-10">
+
+
+<img src="https://logo.letskhabar.com/img/?tool=amazon-web-services" alt="amazon-web-services"><img src="https://logo.letskhabar.com/img/?tool=amazon-s3" alt="amazon-s3"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=google_cloud" alt="google_cloud"><img src="https://logo.letskhabar.com/img/?tool=firebase" alt="firebase"><img src="https://logo.letskhabar.com/img/?tool=mongodb" alt="mongodb"><img src="https://logo.letskhabar.com/img/?tool=cloudflare" alt="cloudflare">
+
+<img src="https://logo.letskhabar.com/img/?tool=python" alt="python"><img src="https://logo.letskhabar.com/img/?tool=django" alt="django"><img src="https://logo.letskhabar.com/img/?tool=flask" alt="flask"><img src="https://logo.letskhabar.com/img/?tool=docker" alt="docker"><img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com//img/?tool=css" alt="css"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=vs-code" alt="vsc">
+
+
+### Find me on 
 
 [Linkedin](https://www.linkedin.com/in/abhiroopbasak)   
 
