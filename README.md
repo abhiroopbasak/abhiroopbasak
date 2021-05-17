@@ -9,13 +9,20 @@ Working on new projects and exploring new tools is a part of the adventure. Open
 
 
 
+
 Some of the interesting projects I have been working on recently:
 
-* Attendance Prediction using ML and Weather API. [Know More](https://github.com/abhiroopbasak/attendance_prediction)
+* STAR: Attendance Prediction using ML and Weather API [Know More](https://github.com/abhiroopbasak/attendance_prediction)
 
-* Live Video Streaming using Socket Programming. [Know More](https://github.com/abhiroopbasak/flask-django_with_socket)
+* Writing Story using NLP [Know More](https://github.com/abhiroopbasak/WordPrediction_NLP)
 
-* Face Reccognition using Haarcascades. [Know More](https://github.com/abhiroopbasak/face_recognition_harcasscades/tree/main)
+* MapCOVID: Vaccine Tracking and Facial recognition Security [Know More](https://github.com/abhiroopbasak/MapCOVID)
+
+* Carttonify: Cartoonify images using OpenCV [Know More](https://abhiroopbasak.github.io/carttonify.github.io/)
+
+* Live Video Streaming using Socket Programming [Know More](https://github.com/abhiroopbasak/flask-django_with_socket)
+
+* Face Reccognition using Haarcascades [Know More](https://github.com/abhiroopbasak/face_recognition_harcasscades/tree/main)
 
 
 
