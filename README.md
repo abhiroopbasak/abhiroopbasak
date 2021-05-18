@@ -5,7 +5,7 @@
 Working on new projects and exploring new tools is a part of the adventure. Open for collaboration on interesting projects. The use of common everyday tools and softwares to build something amazing is alwys a great experience. 
 
 
-
+<br>
 
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/developer_med-1.gif"/>
