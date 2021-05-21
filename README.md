@@ -5,6 +5,7 @@
 Working on new projects and exploring new tools is a part of the adventure. Open for collaboration on interesting projects. The use of common everyday tools and softwares to build something amazing is alwys a great experience. 
 
 
+
 <br>
 
 
